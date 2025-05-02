@@ -1,0 +1,99 @@
+question,Better Response,Description,
+What are the health benefits of blueberries?,RAG,NutritionFacts.org has extensive information on blueberries.,
+How can I reduce my risk of heart disease?,RAG,NutritionFacts.org provides evidence-based advice on heart disease prevention.,
+What is the best diet for preventing cancer?,RAG,NutritionFacts.org offers research-backed information on diet and cancer.,
+Are there any risks associated with energy drinks?,RAG,NutritionFacts.org has articles and videos on the potential dangers of energy drinks.,
+What are the benefits of turmeric for arsenic exposure?,RAG,NutritionFacts.org has specific research on turmeric and arsenic.,
+How much vitamin B12 should I take?,RAG,NutritionFacts.org provides detailed dosage recommendations for vitamin B12.,
+What are the best sources of calcium?,RAG,NutritionFacts.org offers information on calcium-rich foods.,
+Is intermittent fasting a healthy way to lose weight?,RAG,NutritionFacts.org has research-based articles on intermittent fasting.,
+What are the benefits of eating beans?,RAG,NutritionFacts.org provides extensive information on the health benefits of beans.,
+Are there any risks associated with eating processed meat?,RAG,NutritionFacts.org covers the potential health risks of processed meat.,
+What are the benefits of eating a plant-based diet?,RAG,NutritionFacts.org is dedicated to plant-based nutrition.,
+How can I improve my gut health?,RAG,NutritionFacts.org has information on diet and gut health.,
+What are the best foods for lowering cholesterol?,RAG,NutritionFacts.org provides dietary advice for lowering cholesterol.,
+What is the role of fiber in a healthy diet?,RAG,NutritionFacts.org covers the importance of fiber in detail.,
+How can I get enough protein on a vegan diet?,RAG,NutritionFacts.org offers guidance on vegan protein sources.,
+What are the best sources of iron for vegetarians?,RAG,NutritionFacts.org provides information on vegetarian iron sources.,
+What are the health benefits of omega-3 fatty acids?,RAG,NutritionFacts.org covers the benefits of omega-3s.,
+How can I reduce my sugar intake?,RAG,NutritionFacts.org offers advice on reducing sugar consumption.,
+What are the best foods for boosting my immune system?,RAG,NutritionFacts.org provides dietary advice for immune support.,
+How can I prevent osteoporosis?,RAG,NutritionFacts.org has information on preventing osteoporosis through diet.,
+What are the benefits of drinking green tea?,RAG,NutritionFacts.org covers the health benefits of green tea.,
+How can I improve my sleep quality?,RAG,NutritionFacts.org offers dietary tips for better sleep.,
+What are the best foods for reducing inflammation?,RAG,NutritionFacts.org provides information on anti-inflammatory foods.,
+How can I manage my blood sugar levels?,RAG,NutritionFacts.org offers dietary advice for managing blood sugar.,
+What are the benefits of exercise?,LLM,General knowledge question, RAG may not add much.
+How can I reduce stress?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for brain health?,RAG,NutritionFacts.org provides dietary advice for brain health.,
+How can I improve my memory?,RAG,NutritionFacts.org offers dietary tips for improving memory.,
+What are the benefits of meditation?,LLM,General knowledge question, RAG may not add much.
+How can I increase my energy levels?,RAG,NutritionFacts.org offers dietary advice for increasing energy.,
+What are the best foods for healthy skin?,RAG,NutritionFacts.org provides dietary advice for healthy skin.,
+How can I prevent wrinkles?,RAG,NutritionFacts.org offers dietary tips for preventing wrinkles.,
+What are the benefits of drinking water?,RAG,NutritionFacts.org covers the importance of hydration.,
+How can I improve my digestion?,RAG,NutritionFacts.org offers dietary advice for improving digestion.,
+What are the best foods for healthy hair?,RAG,NutritionFacts.org provides dietary advice for healthy hair.,
+How can I prevent hair loss?,RAG,NutritionFacts.org offers dietary tips for preventing hair loss.,
+What are the benefits of sunlight?,LLM,General knowledge question, RAG may not add much.
+How can I improve my mood?,RAG,NutritionFacts.org offers dietary tips for improving mood.,
+What are the best foods for eye health?,RAG,NutritionFacts.org provides dietary advice for eye health.,
+How can I prevent macular degeneration?,RAG,NutritionFacts.org offers dietary tips for preventing macular degeneration.,
+What are the benefits of spending time in nature?,LLM,General knowledge question, RAG may not add much.
+How can I improve my focus?,RAG,NutritionFacts.org offers dietary tips for improving focus.,
+What are the best foods for joint health?,RAG,NutritionFacts.org provides dietary advice for joint health.,
+How can I prevent arthritis?,RAG,NutritionFacts.org offers dietary tips for preventing arthritis.,
+What are the benefits of laughter?,LLM,General knowledge question, RAG may not add much.
+How can I improve my creativity?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy heart?,RAG,NutritionFacts.org provides dietary advice for a healthy heart.,
+How can I prevent high blood pressure?,RAG,NutritionFacts.org offers dietary tips for preventing high blood pressure.,
+What are the benefits of gratitude?,LLM,General knowledge question, RAG may not add much.
+How can I improve my self-esteem?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy liver?,RAG,NutritionFacts.org provides dietary advice for a healthy liver.,
+How can I prevent liver disease?,RAG,NutritionFacts.org offers dietary tips for preventing liver disease.,
+What are the benefits of forgiveness?,LLM,General knowledge question, RAG may not add much.
+How can I improve my relationships?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy kidney?,RAG,NutritionFacts.org provides dietary advice for a healthy kidney.,
+How can I prevent kidney disease?,RAG,NutritionFacts.org offers dietary tips for preventing kidney disease.,
+What are the benefits of compassion?,LLM,General knowledge question, RAG may not add much.
+How can I improve my communication skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy pancreas?,RAG,NutritionFacts.org provides dietary advice for a healthy pancreas.,
+How can I prevent pancreatic cancer?,RAG,NutritionFacts.org offers dietary tips for preventing pancreatic cancer.,
+What are the benefits of kindness?,LLM,General knowledge question, RAG may not add much.
+How can I improve my problem-solving skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy gallbladder?,RAG,NutritionFacts.org provides dietary advice for a healthy gallbladder.,
+How can I prevent gallbladder disease?,RAG,NutritionFacts.org offers dietary tips for preventing gallbladder disease.,
+What are the benefits of optimism?,LLM,General knowledge question, RAG may not add much.
+How can I improve my decision-making skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy thyroid?,RAG,NutritionFacts.org provides dietary advice for a healthy thyroid.,
+How can I prevent thyroid disease?,RAG,NutritionFacts.org offers dietary tips for preventing thyroid disease.,
+What are the benefits of self-care?,LLM,General knowledge question, RAG may not add much.
+How can I improve my time management skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy prostate?,RAG,NutritionFacts.org provides dietary advice for a healthy prostate.,
+How can I prevent prostate cancer?,RAG,NutritionFacts.org offers dietary tips for preventing prostate cancer.,
+What are the benefits of lifelong learning?,LLM,General knowledge question, RAG may not add much.
+How can I improve my leadership skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy colon?,RAG,NutritionFacts.org provides dietary advice for a healthy colon.,
+How can I prevent colon cancer?,RAG,NutritionFacts.org offers dietary tips for preventing colon cancer.,
+What are the benefits of volunteering?,LLM,General knowledge question, RAG may not add much.
+How can I improve my public speaking skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy brain?,RAG,NutritionFacts.org provides dietary advice for a healthy brain.,
+How can I prevent Alzheimer's disease?,RAG,NutritionFacts.org offers dietary tips for preventing Alzheimer's disease.,
+What are the benefits of travel?,LLM,General knowledge question, RAG may not add much.
+How can I improve my financial literacy?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy immune system?,RAG,NutritionFacts.org provides dietary advice for a healthy immune system.,
+How can I prevent the flu?,RAG,NutritionFacts.org offers dietary tips for preventing the flu.,
+What are the benefits of art?,LLM,General knowledge question, RAG may not add much.
+How can I improve my critical thinking skills?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy nervous system?,RAG,NutritionFacts.org provides dietary advice for a healthy nervous system.,
+How can I prevent Parkinson's disease?,RAG,NutritionFacts.org offers dietary tips for preventing Parkinson's disease.,
+What are the benefits of music?,LLM,General knowledge question, RAG may not add much.
+How can I improve my emotional intelligence?,LLM,General knowledge question, RAG may not add much.
+What are the best foods for a healthy respiratory system?,RAG,NutritionFacts.org provides dietary advice for a healthy respiratory system.,
+How can I prevent asthma?,RAG,NutritionFacts.org offers dietary tips for preventing asthma.,
+What are the benefits of dance?,LLM,General knowledge question, RAG may not add much.
+How can I improve my stress management skills?,RAG,NutritionFacts.org offers dietary tips for improving stress management skills.,
+What are the best foods for a healthy endocrine system?,RAG,NutritionFacts.org provides dietary advice for a healthy endocrine system.,
+How can I prevent diabetes?,RAG,NutritionFacts.org offers dietary tips for preventing diabetes.,
+What are the benefits of spending time with loved ones?,LLM,General knowledge question, RAG may not add much.
+How can I improve my conflict resolution skills?,LLM,General knowledge question, RAG may not add much.

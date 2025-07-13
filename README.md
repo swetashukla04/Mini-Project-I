@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MiniProject
 
 This project is a Streamlit-based application for blog post analysis and retrieval using RAG (Retrieval-Augmented Generation) techniques. It includes modules for data ingestion, retrieval, web scraping, and vector database management.
@@ -26,3 +27,6 @@ This project is a Streamlit-based application for blog post analysis and retriev
 
 ## License
 MIT
+=======
+# Mini-Project-I
+>>>>>>> d4f67a4f568fcb30cdec9b3d88002221f673e55e

@@ -1,0 +1,9 @@
+lancedb
+sentence-transformers
+pandas
+numpy
+groq
+requests
+python-dotenv
+google-generativeai
+streamlit
